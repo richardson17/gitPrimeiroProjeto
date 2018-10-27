@@ -1,0 +1,10 @@
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\bin\Debug\projeto.exe.config
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\bin\Debug\projeto.exe
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\bin\Debug\projeto.pdb
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\obj\Debug\projeto.csprojAssemblyReference.cache
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\obj\Debug\projeto.CadastroPessoa.resources
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\obj\Debug\projeto.Properties.Resources.resources
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\obj\Debug\projeto.csproj.GenerateResource.cache
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\obj\Debug\projeto.csproj.CoreCompileInputs.cache
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\obj\Debug\projeto.exe
+C:\Users\Richard\AppData\Local\Temporary Projects\projeto\obj\Debug\projeto.pdb
